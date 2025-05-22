@@ -1,7 +1,7 @@
 ### NAME : Dhiyaneshwar P
 ### REG.NO : 212222110009
 
-# Experiment -1 
+# Experiment : 1 
 # EXECUTION-OF-LOGIC-GATES-USING-PLC-LADDER-PROGRAM
 
 
